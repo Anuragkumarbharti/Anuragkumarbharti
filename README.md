@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=380&height=30&lines=%F0%9F%94%90+Quantum+Cryptography+%7C+Secure+Communication;%E2%9A%9B%EF%B8%8F+BB84+Protocol+%7C+Qiskit+%7C+ML;%F0%9F%8E%93+Researcher+%7C+Builder+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=350&height=28&lines=Quantum+Crypto+%7C+Secure+Comms;BB84+Protocol+%7C+Qiskit+%7C+ML;Researcher+%7C+Builder+%7C+OSS" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Followers -->
