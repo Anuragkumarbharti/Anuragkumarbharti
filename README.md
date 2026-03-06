@@ -5,16 +5,14 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%F0%9F%94%90+Quantum+Cryptography+%7C+Secure+Communication;%E2%9A%9B%EF%B8%8F+BB84+Protocol+%7C+Qiskit+%7C+Machine+Learning;%F0%9F%8E%93+Researcher+%7C+Builder+%7C+Open+Source+Contributor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=80&lines=%F0%9F%94%90+Quantum+Cryptography+%7C+Secure+Communication;%E2%9A%9B%EF%B8%8F+BB84+Protocol+%7C+Qiskit+%7C+ML;%F0%9F%8E%93+Researcher+%7C+Builder+%7C+Open+Source" alt="Typing SVG" width="100%" /></a>
 </div>
 
 <!-- Profile Views & Followers -->
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Anuragkumarbharti&style=for-the-badge&color=1a6dd4&label=PROFILE+VIEWS)
-  &nbsp;
   [![GitHub followers](https://img.shields.io/github/followers/Anuragkumarbharti?style=for-the-badge&color=1a6dd4&labelColor=0d1117)](https://github.com/Anuragkumarbharti?tab=followers)
-  &nbsp;
   [![GitHub stars](https://img.shields.io/github/stars/Anuragkumarbharti?style=for-the-badge&color=1a6dd4&labelColor=0d1117)](https://github.com/Anuragkumarbharti?tab=repositories)
 
 </div>
@@ -24,7 +22,11 @@
 <!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<div align="center">
+  <img alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</div>
+
+<br/>
 
 I'm **Anurag Kumar Bharti**, a research-oriented Computer Science graduate student passionate about **Quantum Cryptography** and **Secure Communication Systems**.
 
@@ -36,14 +38,12 @@ I'm **Anurag Kumar Bharti**, a research-oriented Computer Science graduate stude
 - 🌱 &nbsp;Currently deepening expertise in **Post-Quantum Cryptography** & **AI Security**
 - 📍 &nbsp;Based in Kokrajhar, Assam, India
 
-<br clear="right"/>
-
 ---
 
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anuragkumarbharti&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anuragkumarbharti&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
@@ -52,16 +52,12 @@ I'm **Anurag Kumar Bharti**, a research-oriented Computer Science graduate stude
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                         RESEARCH DOMAINS                                ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  🔐 Quantum Cryptography    →  QKD, BB84 Protocol, Secure Key Exchange ║
-║  🛡️ Cryptographic Protocols  →  Protocol Design, Security Analysis      ║
-║  📡 Secure Communication    →  Quantum Channels, QBER Analysis          ║
-║  🤖 Machine Learning        →  ML for Security, Pattern Recognition     ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+| Domain | Focus Areas |
+|:---:|:---|
+| 🔐 **Quantum Cryptography** | QKD, BB84 Protocol, Secure Key Exchange |
+| 🛡️ **Cryptographic Protocols** | Protocol Design, Security Analysis |
+| 📡 **Secure Communication** | Quantum Channels, QBER Analysis |
+| 🤖 **Machine Learning** | ML for Security, Pattern Recognition |
 
 </div>
 
@@ -182,21 +178,21 @@ I'm **Anurag Kumar Bharti**, a research-oriented Computer Science graduate stude
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anuragkumarbharti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumarbharti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuragkumarbharti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" width="100%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumarbharti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true&langs_count=8" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anuragkumarbharti&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Anuragkumarbharti&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragkumarbharti&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a6dd4" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragkumarbharti&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a6dd4" width="100%"/>
 </div>
 
 ---
@@ -207,7 +203,7 @@ I'm **Anurag Kumar Bharti**, a research-oriented Computer Science graduate stude
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anuragkumarbharti/Anuragkumarbharti/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anuragkumarbharti/Anuragkumarbharti/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anuragkumarbharti/Anuragkumarbharti/output/github-snake-dark.svg" width="95%" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anuragkumarbharti/Anuragkumarbharti/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -227,7 +223,7 @@ I'm **Anurag Kumar Bharti**, a research-oriented Computer Science graduate stude
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%" />
 </div>
 
 <br/>
