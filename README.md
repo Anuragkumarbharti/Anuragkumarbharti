@@ -43,7 +43,7 @@ I'm **Anurag Kumar Bharti**, a research-oriented Computer Science graduate stude
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anuragkumarbharti&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anuragkumarbharti&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&cache_seconds=86400" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
@@ -84,7 +84,7 @@ I'm **Anurag Kumar Bharti**, a research-oriented Computer Science graduate stude
 <div align="center">
 
 <a href="https://github.com/Anuragkumarbharti/Quantum-Key-Distribution-Simulation-using-Qiskit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anuragkumarbharti&repo=Quantum-Key-Distribution-Simulation-using-Qiskit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anuragkumarbharti&repo=Quantum-Key-Distribution-Simulation-using-Qiskit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" width="100%" />
 </a>
 
 </div>
@@ -178,15 +178,15 @@ I'm **Anurag Kumar Bharti**, a research-oriented Computer Science graduate stude
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuragkumarbharti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuragkumarbharti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" width="100%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumarbharti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true&langs_count=8" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumarbharti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true&langs_count=8&cache_seconds=86400" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anuragkumarbharti&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="100%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Anuragkumarbharti&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_seconds=86400" alt="GitHub Streak" width="100%" />
 </div>
 
 <br/>
